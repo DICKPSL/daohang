@@ -12,7 +12,7 @@
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
       description: 资源分享，详细图文教程。
-    - title: 环球巴士
+    - title: 
       qrcode: 
       logo: images/logos/HQBS.png
       url: https://universalbus.cn?s=gB8CJKmJdd
@@ -51,29 +51,79 @@
       description: UUID在线生成
     
 
-- taxonomy: 社区咨询
+- taxonomy: ai生成视频
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
+    - title: svd
+      logo: 
+      url: https://www.stablevideo.com/
+      description: 
+    - title: Runway
+      logo: 
+      url: https://runwayml.com/
+      description: 
+    - title: Pika
+      logo: 
+      url: https://pika.art/
+      description: 
+    - title: DOMOAI
+      logo: 
+      url: https://domoai.app/
+      description: 
+    - title: Pixverse
+      logo: 
+      url: https://pixverse.ai/
+      description: 
+
+
+      
+  - taxonomy: ai生成语音
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: Heygen
+      logo: 
+      url: https://bit.ly/Hey-Gen
+      description: 
+    - title: Rask.AI
+      logo: 
+      url: https://bit.ly/xRaskAI
+      description: 
+    - title: Elevenlabs
+      logo: 
+      url: https://bit.ly/11elevenlabs
+      description: 
+    - title: GPT-SoVits
+      logo: 
+      url: https://github.com/RVC-Boss/GPT-SoVITS
+      description: 
+    - title: openAI大语言翻译项目whisper
+      logo: 
+      url: https://github.com/openai/whisper
+      description: 
+    - title: Wav2Lip
+      logo: 
+      url: https://github.com/Rudrabha/Wav2Lip
+      description: 
+    - title: Wav2Lip（魔改版） 
+      logo: 
+      url: https://github.com/ajay-sainy/Wav2Lip-GFPGAN
+      description: 
+    - title: video-retalking
+      logo: 
+      url: https://github.com/OpenTalker/video-retalking
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+      
+- taxonomy: 资讯
+  icon: fa-regular fa-newspaper
+  links: 
     - title: 互联网早读课
       logo: images/logos/zaodula.png
       url: https://www.zaodula.com/
